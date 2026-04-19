@@ -166,9 +166,9 @@ python main.py
 
 # 📊 Output
 
-* Detects and displays faces with names via webcam
-* Automatically records attendance in `attendance.csv` without duplicate entries
-* Works in real-time using webcam
+1. Detects and displays faces with names via webcam
+2. Automatically records attendance in `attendance.csv` without duplicate entries
+3. Works in real-time using webcam
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5305ec90-3df1-43f8-920f-8acef770df97" width="45%" />
