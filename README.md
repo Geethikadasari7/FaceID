@@ -163,18 +163,24 @@ python main.py
 4. Attendance will be recorded automatically
 
 
+
 # 📊 Output
 
-* Detects and displays faces with names via webcam.
-* Automatically records attendance in `attendance.csv`
+* Detects and displays faces with names via webcam
+* Automatically records attendance in `attendance.csv` without duplicate entries
 * Works in real-time using webcam
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6aa4d772-2087-4432-995a-2796b4831f9b" width="40%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/850189e7-d5ac-490e-bb11-22d0f4df0077" width="43%" />
+  <img src="https://github.com/user-attachments/assets/5305ec90-3df1-43f8-920f-8acef770df97" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/91ff2da3-5011-4e9e-a667-c23553211b95" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a15ab223-7770-4542-81d8-861b77b562e6" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/91d4b3b2-83b0-445e-9878-f82d53e6b66d" width="45%" />
+</p>
 
 
 
