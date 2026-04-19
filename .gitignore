@@ -1,0 +1,4 @@
+face_env/
+__pycache__/
+*.pyc
+attendance.csv
