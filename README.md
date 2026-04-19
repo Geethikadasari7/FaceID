@@ -90,7 +90,7 @@ python --version
 
 
 
-##  ✅ Step 4: Method 1- Using requirements.txt (Professional Way)
+##  ✅ Step 4(a): Method 1- Using requirements.txt (Professional Way)
 
 ```bash
 python -m pip install -r requirements.txt
@@ -105,7 +105,7 @@ python -m pip install dlib-bin
 
 
 
-## ✅ Step 4: Method 2- Manual Installation (Reliable for Windows)
+## ✅ Step 4(b): Method 2- Manual Installation (Reliable for Windows)
 
 ```bash
 python -m pip install opencv-python
