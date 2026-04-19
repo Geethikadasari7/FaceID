@@ -186,11 +186,12 @@ python main.py
 
 # 🎯 Features
 
-* Face Detection (Image & Webcam)
-* Real-time Face Recognition
-* Automatic Attendance Logging
-* Multi-person detection
-* Easy setup with virtual environment
+- Face Detection (Image & Webcam)  
+- Real-time Face Recognition  
+- Automatic Attendance Logging  
+- Prevents duplicate entries  
+- Multi-person detection  
+- Easy setup with virtual environment  
 
 
 
