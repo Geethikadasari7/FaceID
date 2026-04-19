@@ -165,9 +165,16 @@ python main.py
 
 # 📊 Output
 
-* Displays face bounding box with name
-* Marks attendance in `attendance.csv`
+* Detects and displays faces with names via webcam.
+* Automatically records attendance in `attendance.csv`
 * Works in real-time using webcam
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6aa4d772-2087-4432-995a-2796b4831f9b" width="40%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/850189e7-d5ac-490e-bb11-22d0f4df0077" width="43%" />
+</p>
+
 
 
 
