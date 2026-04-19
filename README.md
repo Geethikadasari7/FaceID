@@ -201,9 +201,15 @@ python main.py
 
 # 🙌 Acknowledgements
 
-* OpenCV
-* face-recognition library
-* dlib (via dlib-bin)
+This project is my original work, developed independently using Python and OpenCV, and is intended for learning and reference purposes.
+
+Credits:
+- OpenCV
+- face-recognition library
+- Haar Cascade classifier (Intel Open Source License)
+- Open-source resources for learning
+
+
 
 
 
